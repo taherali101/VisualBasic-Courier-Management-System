@@ -1,12 +1,12 @@
-##Courier Management System
+# Courier Management System
 
-Important Instruction:
+## Important Instruction:
 
 Database file is by name of Database1.mdb.
 Database file needs to be modified as no records are there currently.
 Crystal Reports and Db connection paths need to be changed as per your database directory. 
 
-Introduction
+## Introduction
 
 The project is a demonstration of a data connectivity application.
 In data connectivity, user interface and the data storage are separated and handled by different application.
@@ -22,7 +22,7 @@ Consignments and posts details for Sending and tracking, Postage calculation and
 Consignment and posts details are made simply to access via creation of reports. 
 As well as this system maintain the details of all other transactions such as maintaining money order details speed post transactions register post transaction saving and recurring bank transactions there by eliminating the manual long work.
 
-Scope
+## Scope
 
 Goal: The aim of this project is to create a comprehensive Courier management system using data connectivity tools to efficiently handle the business and generating analysis reports
 •	Functions:
